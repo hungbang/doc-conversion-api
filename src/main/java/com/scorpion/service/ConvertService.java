@@ -2,9 +2,7 @@ package com.scorpion.service;
 
 import com.scorpion.request.ConvertRequestProperty;
 import com.scorpion.response.StatusResponse;
-import org.springframework.web.multipart.MultipartFile;
 
-import java.io.File;
 import java.io.IOException;
 
 /**
