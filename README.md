@@ -1,6 +1,5 @@
 # doc-conversion-api
 
-# Please check the file ConvertServiceImplTest to get example how to use this service.
 
 I had published 2 api to integrate with https://docs.docconversionapi.com/
 1. convert(ConvertRequestProperty convertRequestProperty) - Method: POST
